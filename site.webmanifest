@@ -1,0 +1,14 @@
+{
+  "name": "Manuel Sam Ribeiro",
+  "short_name": "MSR",
+  "icons": [
+    {
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1C3A4A",
+  "background_color": "#1C2B35",
+  "display": "standalone"
+}
